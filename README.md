@@ -1,2 +1,2 @@
-# gitlabflaskapp
-saghar razpour &amp; Delaram mosavi
+# dockeruniversityproject
+this is university docker project for gitlab
